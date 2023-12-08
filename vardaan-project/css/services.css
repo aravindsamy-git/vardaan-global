@@ -1,0 +1,496 @@
+.DivCloudservices {
+    width: 298px;
+    height: 419px;
+    left: 89px;
+    top: 1394px;
+    position: absolute;
+    border-radius: 10px;
+    border: 3px rgba(202, 202, 202, 0.50) solid;
+    transition: border-color 0.3s ease;
+    background-color: white;
+}
+
+.DivCloudservices:hover {
+    border-color: #4A3AFF;
+}
+
+.DivLinkClouds {
+    padding-left: 31px;
+    padding-right: 31px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    left: 102px;
+    top: 341px;
+    position: absolute;
+    background: #F8F8F8;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex"
+
+}
+
+.DivLinkClouds:hover {
+    background-color: #4A3AFF;
+}
+
+.cs-arrow {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 40px;
+    word-wrap: break-word"
+
+}
+
+.DivLinkClouds:hover .cs-arrow {
+    color: white;
+}
+
+.cloud-def {
+    left: 12px;
+    top: 180px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 20px;
+    word-wrap: break-word"
+
+}
+
+.CloudServices {
+    left: 63px;
+    top: 123px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: 100;
+    line-height: 32px;
+    word-wrap: break-word
+}
+
+.CloudComputing5620888Png {
+    width: 65px;
+    height: 65px;
+    left: 117px;
+    top: 34px;
+    position: absolute
+}
+
+.DivCybersecurity {
+    width: 298px;
+    height: 419px;
+    left: 402px;
+    top: 1394px;
+    position: absolute;
+    border-radius: 10px;
+    border: 3px rgba(202, 202, 202, 0.50) solid;
+    transition: border-color 0.3s ease;
+    background-color: white;
+}
+
+.DivCybersecurity:hover {
+    border-color: #4A3AFF;
+}
+
+.Privacy4104794Png {
+    width: 65px;
+    height: 65px;
+    left: 116.50px;
+    top: 33.50px;
+    position: absolute
+}
+
+.DivLinkCyber {
+    padding-left: 31px;
+    padding-right: 31px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    left: 102px;
+    top: 341px;
+    position: absolute;
+    background: #F8F8F8;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex
+}
+
+.DivLinkCyber:hover{
+    background-color: #4A3AFF;
+}
+
+.ce-arrow {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 40px;
+    word-wrap: break-word
+}
+
+.DivLinkCyber:hover .ce-arrow{
+    color: white;
+
+}
+
+.cyber-def {
+    left: 12px;
+    top: 180px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 20px;
+    word-wrap: break-word
+}
+
+.CyberSecurity {
+    left: 65px;
+    top: 123px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: 100;
+    line-height: 32px;
+    word-wrap: break-word
+}
+
+.Divresources {
+    width: 298px;
+    height: 419px;
+    left: 900px;
+    top: 1394px;
+    position: absolute;
+    border-radius: 10px;
+    border: 3px rgba(202, 202, 202, 0.50) solid;
+    transition: border-color 0.3s ease;
+    background-color: white;
+}
+
+.Divresources:hover {
+    border-color: #4A3AFF;
+}
+
+.DivLinkresources {
+    padding-left: 31px;
+    padding-right: 31px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    left: 102px;
+    top: 341px;
+    position: absolute;
+    background: #F8F8F8;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex
+}
+
+.DivLinkresources:hover {
+    background-color: #4A3AFF;
+
+}
+
+.resources-text {
+    left: 24px;
+    top: 180px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 20px;
+    word-wrap: break-word
+}
+
+.r-arrow {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 40px;
+    word-wrap: break-word
+}
+
+.DivLinkresources:hover .r-arrow{
+    color: white;
+}
+
+.Resources {
+    left: 90px;
+    top: 123px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: 100;
+    line-height: 32px;
+    word-wrap: break-word
+}
+
+.resource5620888Png {
+    width: 65px;
+    height: 65px;
+    left: 117px;
+    top: 34px;
+    position: absolute
+}
+
+.Diverp {
+    width: 298px;
+    height: 419px;
+    left: 1028px;
+    top: 1394px;
+    position: absolute;
+    border-radius: 10px;
+    border: 3px rgba(202, 202, 202, 0.50) solid;
+    transition: border-color 0.3s ease;
+    background-color: white;
+}
+
+.Diverp:hover {
+    border-color: #4A3AFF;
+}
+
+
+.DivLinkerp {
+    padding-left: 31px;
+    padding-right: 31px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    left: 102px;
+    top: 341px;
+    position: absolute;
+    background: #F8F8F8;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex
+}
+
+.DivLinkerp:hover{
+    background-color: #4A3AFF;
+}
+
+.erp-text {
+    left: 14px;
+    top: 180px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 20px;
+    word-wrap: break-word
+}
+
+.Erp {
+    left: 126px;
+    top: 123px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: 100;
+    line-height: 32px;
+    word-wrap: break-word
+}
+
+.Gear49172581 {
+    width: 65px;
+    height: 65px;
+    left: 117px;
+    top: 34px;
+    position: absolute
+}
+
+.e-arrow {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 40px;
+    word-wrap: break-word
+}
+
+.DivLinkerp:hover .e-arrow{
+    color: white;
+}
+
+.Divdatascience {
+    width: 298px;
+    height: 419px;
+    left: 715px;
+    top: 1394px;
+    position: absolute;
+    border-radius: 10px;
+    border: 3px rgba(202, 202, 202, 0.50) solid;
+    transition: border-color 0.3s ease;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 24px;
+    display: inline-flex;
+    background-color: white;
+}
+
+.Divdatascience:hover {
+    border-color: #4A3AFF;
+}
+
+.Increasing2923845Png {
+    width: 65px;
+    height: 65px;
+    position: relative
+}
+
+.DataScience {
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: 100;
+    line-height: 32px;
+    word-wrap: break-word
+}
+
+.datascience-text {
+    text-align: center;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 20px;
+    word-wrap: break-word
+}
+
+.d-arrow {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 40px;
+    word-wrap: break-word
+}
+
+.Divdatascience {
+    width: 298px;
+    height: 419px;
+    left: 715px;
+    top: 1394px;
+    position: absolute;
+    border-radius: 10px;
+    border: 3px rgba(202, 202, 202, 0.50) solid;
+    transition: border-color 0.3s ease;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 24px;
+    display: inline-flex
+}
+
+.Divdatascience:hover {
+    border-color: #4A3AFF;
+}
+
+.Increasing2923845Png {
+    width: 65px;
+    height: 65px;
+    left: 117px;
+    top: 34px;
+    position: absolute
+}
+
+.DataScience {
+    left: 73px;
+    top: 123px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: 100;
+    line-height: 32px;
+    word-wrap: break-word
+}
+
+.datascience-text {
+    text-align: center;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 20px;
+    word-wrap: break-word;
+    position: absolute;
+    left: 23px;
+    top: 178px;
+}
+
+.Linkdata {
+    padding-left: 31px;
+    padding-right: 31px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    left: 102px;
+    top: 341px;
+    position: absolute;
+    background: #F8F8F8;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex
+}
+
+.Linkdata:hover {
+    background-color: #4A3AFF;
+}
+
+.d-arrow {
+    text-align: center;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 40px;
+    word-wrap: break-word;
+    transition: color 0.3s ease;
+}
+
+.Linkdata:hover .d-arrow {
+    color: white;
+}
